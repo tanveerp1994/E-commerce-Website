@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Patel Cart</title>
+<title>Sporty Shoes</title>
 
 	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 	 <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
@@ -15,7 +15,7 @@
   	 
 </head>
 <body style="background-color:Tan;">
-	<h1>Welcome to Patel Cart</h1>
+	<h1>Welcome to Sporty Shoes</h1>
 	<div align="right">
 		<a href="/index">Sign Out</a>
 	</div>
