@@ -1,0 +1,53 @@
+******************** PROJECT DETAILS *******************************
+
+NAME OF PROJECT:- Patel Cart (E-commerce website for Online Shoes buying) 
+DEVOLOPERS NAME:- TANVEER PATEL
+SPRINT PLANNED:- 6 DAYS PER SPRINT
+TOTAL SPRINT:- 2
+
+Tools:-
+1. Java Sping boot
+2. JSP
+3. JSTL Tags
+4. Spring JDBC 
+5. MySQL DB Server(localhost:3306)
+6. Opera Browser.
+
+Modules:
+  1. User Experience
+	a)	Application Main Page
+	b)	User Sign Up
+	c)	User Sign In
+	d)	User Main Page & Add to Cart
+	e)	View Cart & Place Order
+	f)	View Order Details
+ 2. Application Administration
+	a)	Admin Login
+	b)	Manage Users
+		a.	View List of Users
+		b.	Edit User Information
+		c.	Add New Users
+	c)	Manage Projects
+		a.	View List of Products
+		b.	Add New Products
+		c.	Edit Existing Project Details
+	d)	Purchase History
+		a.	Provide Search/Filter Criteria
+		b.	View Report
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+UNIQUE SELLING POINT (USP):-
+“Empowering the world to design” conveys what makes the service unique and better without using too many words to explain. So what else does it signify?
+
+    The simplicity of the product; drag and drop feature in future, ready-made templates, etc.
+    Low prices more people can afford
+    Competitive advantage in the market
+
+
+
+ 
