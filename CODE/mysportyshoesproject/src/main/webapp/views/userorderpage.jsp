@@ -5,10 +5,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Patel Cart</title>
+<title>Sporty Shoes</title>
 </head>
 <body style="background-color:Tan;">
-	<h1>Welcome to Patel Cart</h1>
+	<h1>Welcome to Sporty Shoes</h1>
 	<h2>Hello, ${username}</h2>
 	<div align="center">
 		<h3>Your Order Details</h3>
